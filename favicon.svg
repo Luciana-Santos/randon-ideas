@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Criatura fofa com lua">
+  <rect width="64" height="64" rx="14" fill="#fbf5df"/>
+  <circle cx="47" cy="18" r="10" fill="#fffaf0" stroke="#17485a" stroke-width="3"/>
+  <path d="M44 9c5 5 5 12 0 18" fill="none" stroke="#e98588" stroke-width="2" stroke-linecap="round"/>
+  <path d="M17 31c0-10 7-18 16-18s16 8 16 18v10c0 9-7 15-16 15s-16-6-16-15V31z" fill="#d8c7ed" stroke="#17485a" stroke-width="4"/>
+  <path d="M34 13c0-7 5-10 10-10" fill="none" stroke="#17485a" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="45" cy="4" r="4" fill="#efc35b" stroke="#17485a" stroke-width="3"/>
+  <ellipse cx="27" cy="34" rx="3" ry="5" fill="#202944"/>
+  <ellipse cx="40" cy="34" rx="3" ry="5" fill="#202944"/>
+  <path d="M30 43c3 3 6 3 9 0" fill="none" stroke="#17485a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M22 40h7M39 40h7" stroke="#f47f7c" stroke-width="3" stroke-linecap="round"/>
+</svg>

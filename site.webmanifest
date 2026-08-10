@@ -1,0 +1,18 @@
+{
+  "name": "Ideias Epicas e Fofas",
+  "short_name": "Ideias",
+  "description": "Gerador de prompts para desenhos epicos, fofos e melancolicos.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf5df",
+  "theme_color": "#fbf5df",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

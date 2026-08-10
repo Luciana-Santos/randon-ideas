@@ -1,0 +1,6 @@
+*.pdf
+.git/
+.agents/
+.codex/
+node_modules/
+*.log

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Preview do gerador Ideias Epicas e Fofas">
+  <rect width="1200" height="630" fill="#fbf5df"/>
+  <circle cx="1010" cy="108" r="88" fill="#fffaf0" stroke="#17485a" stroke-width="10"/>
+  <path d="M970 28c55 56 55 113 0 170" fill="none" stroke="#e98588" stroke-width="8" stroke-linecap="round"/>
+  <path d="M0 500c180-76 345-68 492 24 138 87 278 98 418 28 101-50 198-56 290-18v96H0z" fill="#d8c7ed" opacity=".65"/>
+  <path d="M142 348c0-98 74-176 166-176s166 78 166 176v70c0 88-72 148-166 148s-166-60-166-148z" fill="#d8c7ed" stroke="#17485a" stroke-width="14"/>
+  <path d="M332 174c0-68 46-96 94-96" fill="none" stroke="#17485a" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="442" cy="78" r="22" fill="#efc35b" stroke="#17485a" stroke-width="12"/>
+  <ellipse cx="258" cy="350" rx="17" ry="28" fill="#202944"/>
+  <ellipse cx="365" cy="350" rx="17" ry="28" fill="#202944"/>
+  <path d="M282 430c31 28 61 28 92 0" fill="none" stroke="#17485a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M205 400h70M371 400h70" stroke="#f47f7c" stroke-width="13" stroke-linecap="round"/>
+  <text x="545" y="220" fill="#17485a" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="88" font-weight="900">Ideias epicas</text>
+  <text x="545" y="318" fill="#5a3f85" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="88" font-weight="900">e fofas</text>
+  <text x="550" y="390" fill="#3d7282" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="34" font-weight="700">Prompts aleatorios para desenhos cosmicos,</text>
+  <text x="550" y="438" fill="#3d7282" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="34" font-weight="700">melancolicos, magicos e colossais.</text>
+  <path d="M1000 368h34M1017 351v34M925 276h24M937 264v24M1047 494h28M1061 480v28" stroke="#f47f7c" stroke-width="8" stroke-linecap="round"/>
+</svg>
