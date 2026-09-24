@@ -1,7 +1,7 @@
 {
-  "name": "Ideias Epicas e Fofas",
+  "name": "Ideias Cozy e Fofas",
   "short_name": "Ideias",
-  "description": "Gerador de prompts para desenhos epicos, fofos e melancolicos.",
+  "description": "Gerador de prompts para desenhos cozy, fofos e delicados.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#fbf5df",

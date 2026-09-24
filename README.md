@@ -1,6 +1,6 @@
-# Ideias Epicas e Fofas
+# Ideias Cozy e Fofas
 
-Webapp estatico para gerar ideias aleatorias de desenhos sem repetir dentro da rodada atual.
+Webapp estatico para gerar ideias aleatorias de desenhos cozy e fofos sem repetir dentro da rodada atual.
 
 ## Publicar no Netlify
 
